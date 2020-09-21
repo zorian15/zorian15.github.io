@@ -7,4 +7,4 @@ location: "Seattle, WA"
 author_profile: false
 layout: single
 
-[pdf]({{ site.url }}/CV/builds/cv.pdf))
+[pdf]({{ site.url }}/files/cv.pdf))
