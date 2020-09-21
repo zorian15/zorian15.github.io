@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Zorian Thornton"
-  avatar           : "images/me.jpg"
+  avatar           : "images/me2018.jpg"
   bio              : "PhD Student with [**Erick Matsen**](https://matsen.fhcrc.org) at Fred Hutch Cancer Research Center."
   location         : "Seattle, WA"
   pubmed           :
@@ -103,11 +103,11 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zorian-thornton/"
+  linkedin         : "zorian-thornton"
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/8189711/zorian15"
+  stackoverflow    : "zorian15"
   steam            :
   tumblr           :
   twitter          : "ZorianThornton"
@@ -176,7 +176,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  CV:
     output: true
     permalink: /:collection/:path/
 
@@ -201,10 +201,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _CV
   - scope:
       path: ""
-      type: teaching
+      type: CV
     values:
       layout: single
       author_profile: true
