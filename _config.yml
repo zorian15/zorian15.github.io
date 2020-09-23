@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Zorian Thornton"
-  avatar           : "images/me2018.jpg"
+  avatar           : "files/me2018.jpg"
   bio              : "PhD Student with [**Erick Matsen**](https://matsen.fhcrc.org) at Fred Hutch Cancer Research Center."
   location         : "Seattle, WA"
   pubmed           :
@@ -244,7 +244,7 @@ whitelist:
 
 remote_theme: "mmistakes/minimal-mistakes@4.20.2"
 # theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "dark"
 
 # Archives
 #  Type
