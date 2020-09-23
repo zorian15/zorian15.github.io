@@ -2,9 +2,9 @@
 layout: archive
 title: "Cirriculum vitae"
 permalink: /CV/
-author_profile: false
+author_profile: true
 redirect_from:
   - /resume
 ---
 
-[CV](/files/cv.pdf)
+[Click here to download my latest CV!](https://zorian15.github.io/markdown-cv/)
