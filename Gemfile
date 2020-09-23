@@ -18,4 +18,5 @@ end
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 gem "minimal-mistakes-jekyll"
+gem "jekyll-relative-links"
 # gem "rails"
