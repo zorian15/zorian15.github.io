@@ -176,7 +176,7 @@ kramdown:
 
 # Collections
 collections:
-  markdown-cv:
+  CV:
     output: true
     permalink: /:collection/:path/
 
@@ -204,7 +204,7 @@ defaults:
   # _CV
   - scope:
       path: ""
-      type: markdown-cv
+      type: CV
     values:
       layout: single
       author_profile: true
