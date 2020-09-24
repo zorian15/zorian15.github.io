@@ -201,15 +201,15 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _CV
-  - scope:
-      path: ""
-      type: CV
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comments: true
+  # # _CV
+  # - scope:
+  #     path: ""
+  #     type: CV
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: false
+  #     comments: true
 
 # gems:
 #   - jekyll-relative-links
