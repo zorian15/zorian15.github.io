@@ -213,7 +213,7 @@ defaults:
 
 gems:
   - jekyll-relative-links
-  
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
