@@ -211,8 +211,8 @@ defaults:
       share: false
       comments: true
 
-gems:
-  - jekyll-relative-links
+# gems:
+#   - jekyll-relative-links
 
 # Sass/SCSS
 sass:
