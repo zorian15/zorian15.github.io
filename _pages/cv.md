@@ -2,7 +2,6 @@
 layout: single
 title: "Cirriculum vitae"
 author_profile: false
-permalink: /CV/index.html
 redirect_to: https://zorian15.github.io/markdown-cv/
 ---
 
