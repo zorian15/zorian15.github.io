@@ -242,6 +242,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-redirect-from
 
 
 remote_theme: "mmistakes/minimal-mistakes@4.20.2"
