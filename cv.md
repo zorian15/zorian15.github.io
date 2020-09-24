@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Cirriculum vitae"
 author_profile: false
 collection: CV
