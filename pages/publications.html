@@ -1,0 +1,59 @@
+---
+layout: single
+title: Publications
+permalink: /publications/
+author_profile: true
+---
+
+<h1 class="mt-4"></h1>
+{% assign publications = site.publications | sort: "year" | reverse %}
+{% for pub in publications %}
+<div class="pubitem">
+  <div class="pubtitle">
+    {{ pub.title }}
+  </div>
+  <div class="pubauthors">
+    {{ pub.authors }}
+  </div>
+  <div class="pubinfo">
+    {{ pub.publication }}, {{ pub.year}}
+  </div>
+</div>
+{% endfor %}
+
+<style media="screen">
+  .pubitem {
+  margin: 2em 0;
+  line-height: 1em;
+}
+<div class="pubteaser">
+  <a href="{{pub.url}}">
+    <img src="../files/{{ pub.slug }}_small.png" alt="{{pub.slug}} publication teaser"/>
+  </a>
+</div>
+
+.pubtitle {
+  margin-bottom: .5em;
+  line-height: 1.2em;
+  font-weight: bold;
+}
+
+.pubauthors, .pubinfo {
+  font-size: 75%;
+  margin-bottom: .75em;
+}
+
+.pubteaser {
+  clear: both;
+}
+
+.pubteaser a {
+  float: left;
+  margin-right: 2em;
+}
+
+.pubteaser img {
+  width: 100px;
+  border: 1px solid black;
+}
+</style>

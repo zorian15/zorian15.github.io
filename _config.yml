@@ -123,6 +123,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -179,6 +180,10 @@ collections:
   CV:
     output: true
     permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:name/
+
 
 
 # Defaults
@@ -211,7 +216,7 @@ defaults:
       share: false
       comments: true
 
-# gems:
+gems: ["jemoji"]
 #   - jekyll-relative-links
 
 # Sass/SCSS
