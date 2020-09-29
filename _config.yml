@@ -240,6 +240,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-include-cache
+  - jemoji
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
