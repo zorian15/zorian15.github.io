@@ -16,3 +16,5 @@ I completed my undergraduate education at Virginia Tech where I also worked with
 
 Outside of science and classwork, I love blogging :black_nib: and vlogging :video_camera: (stay tuned for these!) as well as powerlifting :muscle: and playing video games :video_game:!
 Feel free to connect with me via the links on the sidebar! :relaxed:
+
+![foege](files/foege.jpeg)
