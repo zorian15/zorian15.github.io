@@ -9,6 +9,11 @@ author_profile: true
 {% assign publications = site.publications | sort: "year" | reverse %}
 {% for pub in publications %}
 <div class="pubitem">
+  <div class="pubteaser">
+    <a href="{{pub.url}}">
+      <img src="../files/{{ pub.slug }}_small.png" alt="{{pub.slug}} publication teaser"/>
+    </a>
+  </div>
   <div class="pubtitle">
     {{ pub.title }}
   </div>
@@ -26,11 +31,6 @@ author_profile: true
   margin: 2em 0;
   line-height: 1em;
 }
-<div class="pubteaser">
-  <a href="{{pub.url}}">
-    <img src="../files/{{ pub.slug }}_small.png" alt="{{pub.slug}} publication teaser"/>
-  </a>
-</div>
 
 .pubtitle {
   margin-bottom: .5em;
@@ -43,6 +43,10 @@ author_profile: true
   margin-bottom: .75em;
 }
 
+.pubinfo {
+  font-style: italic;
+}
+
 .pubteaser {
   clear: both;
 }
@@ -53,7 +57,7 @@ author_profile: true
 }
 
 .pubteaser img {
-  width: 100px;
+  width: 150px;
   border: 1px solid black;
 }
 </style>
