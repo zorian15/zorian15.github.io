@@ -216,7 +216,7 @@ defaults:
       share: false
       comments: true
 
-gems: ["jemoji"]
+#gems: ["jemoji"]
 #   - jekyll-relative-links
 
 # Sass/SCSS
