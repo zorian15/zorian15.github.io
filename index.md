@@ -11,7 +11,7 @@ Hi, I'm Zorian!
 I'm a PhD student in the [Department of Genome Sciences](https://www.gs.washington.edu) at the University of Washington.
 I am currently working with [Erick Matsen](https://matsen.fredhutch.org) at the [Fred Hutch Cancer Research Center](https://www.fredhutch.org/en.html).
 My research interests currently involve the intersection of statistics and machine learning, virology, immunology and evolution.
-I completed my undergraduate education at Virginia Tech where I also worked with [Leah Johnson](http://leah.johnson-gramacy.com/QED/) and [Allison Tegge](https://www.stat.vt.edu/people/stat-faculty/tegge-allison.html).
+I completed my undergraduate education at Virginia Tech where I obtained degrees in statistics and computational modeling and data analytics (CMDA). I also worked with [Leah Johnson](http://leah.johnson-gramacy.com/QED/) and [Allison Tegge](https://www.stat.vt.edu/people/stat-faculty/tegge-allison.html).
 
 
 Outside of science and classwork, I love blogging :black_nib: and vlogging :video_camera: (stay tuned for these!) as well as powerlifting :muscle: and playing video games :video_game:!
